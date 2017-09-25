@@ -1,0 +1,1 @@
+document.getElementById('displayPR').setAttribute('src', 'http://www.seoutility.com/images/empty.png');
